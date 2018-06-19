@@ -1,0 +1,4 @@
+dog-6
+cat-5
+parrot-2
+rabbit-9
