@@ -1,7 +1,7 @@
 #!/bin/python3
 from random import randint
 from turtle import *
-speed(20)
+speed(10)
 penup()
 
 goto(-140,140)
